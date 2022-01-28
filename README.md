@@ -21,10 +21,10 @@
   none
   ## Test:
   - Run the following commands in your terminal to test this project.
-  with jest
+  none at the moment
   ## credits:
   alexzoo0
   ## Questions:
   Any questions you may have, don't hesitate to reach out, below is my contact info.
   Github: https://github.com/alexzoo0
-  Email: alexisvelasquez15@gmail.co
+  Email: alexisvelasquez15@gmail.com
